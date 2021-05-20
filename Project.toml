@@ -1,0 +1,10 @@
+name = "PRML"
+uuid = "4993301f-b4a1-4eda-9de7-109659faa7b0"
+authors = ["Ying-Qiu Zheng <yingqiuz@users.noreply.github.com>"]
+version = "0.1.0"
+
+[deps]
+BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
